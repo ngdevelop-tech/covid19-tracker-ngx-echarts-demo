@@ -1,27 +1,18 @@
-# NgxEchartsDemo
+# COVID19 TRACKER : NGX-ECHARTS-DEMO Application
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.1.
+COVID19 TRACKER is a demo application made with ngx-echarts for demonstrating echarts implementation in angular application.
 
-## Development server
+Checkout the complete blog at : [Data Visualization with ECharts in Angular using NGX-ECHARTS](https://www.ngdevelop.tech/data-visualization-with-echarts-in-angular-using-ngx-echarts/)
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+## Feature
 
-## Code scaffolding
+Country wise covid19 cases records by confirmed cases, recovereed cases and deaths.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Mark the Star ⭐
 
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+If you feel this application is useful, give us a ⭐.
 
 ## Further help
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+This application is made by [Ankit_NgDevelop](https://twitter.com/ankit_ngdevelop) at NgDevelop[https://www.ngdevelop.tech] for [Data Visualization with ECharts in Angular using NGX-ECHARTS](https://www.ngdevelop.tech/data-visualization-with-echarts-in-angular-using-ngx-echarts/)
+ blog
