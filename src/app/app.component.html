@@ -7,7 +7,7 @@
     <div class="col-md-12">
       <div class="form-group">
         <label for="">Country</label>
-        <select class="form-control" name="" id="" [(ngModel)]="selectedCountry" (change)="onChangeCountry($event)">
+        <select class="form-control" name="" id="" [(ngModel)]="selectedCountry" (change)="onChangeCountry()">
           <option *ngFor="let c of countries$ | async" [value]="c.Slug">{{c.Country}}</option>
         </select>
       </div>
